@@ -1,0 +1,20 @@
+{
+  "name": "مدیریت انبار",
+  "short_name": "انبارداری",
+  "description": "مدیریت آفلاین کالاها و فاکتورهای خرید و فروش",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#14532d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
